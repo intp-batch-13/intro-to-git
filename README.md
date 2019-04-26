@@ -1,5 +1,5 @@
 # intro-to-git
-by Rusydy
+by zainudin
 
 ## How to create project directory
 
